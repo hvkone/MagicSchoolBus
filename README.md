@@ -1,6 +1,6 @@
 # Welcome to Magic School Bus
 
-This repository will be used to enhance version control practices.
+This repository will be used to enhance version control practices by writing the same game in different languages.
 
 1. Clone this repo to locale.
 https://github.com/hvkone/MagicSchoolBus.git
